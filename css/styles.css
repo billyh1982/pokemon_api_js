@@ -1,0 +1,47 @@
+ .title {
+     display: flex;
+     justify-content: center;
+ }
+
+ button {
+     width: 4em;
+     justify-content: center;
+     background-color: black;
+     color: white;
+     margin: auto;
+     margin-top: 1em;
+ }
+
+ img {
+     display: none;
+     min-width: 15em;
+     margin: auto;
+ }
+
+ input {
+     margin: auto;
+ }
+
+ .card {
+     border: none;
+     max-height: 50px;
+ }
+
+ .card h2 {
+     margin: auto;
+     padding-top: 5em;
+ }
+
+ .input {
+     width: 3px;
+ }
+ 
+
+ .container {
+     display: flex;
+     justify-content: center;
+     margin-top: 75px;
+     border:solid 6px black;
+     height: 50px;
+     width: 25%;
+ }
